@@ -6,7 +6,7 @@
 
 ##About
 Shot-O-Matic is an iPhone app that contains a set of drink recipies (shots)
-and some fun ways to find / display sed recipies.  This stupid thing was
+and some fun ways to find / display said recipies.  This stupid thing was
 supposed to make us wildly rich and popular but it turns out that nobody
 is willing to pay for apps (especially really dumb ones).  Oh well.
 
